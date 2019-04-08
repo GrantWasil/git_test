@@ -1,0 +1,1 @@
+This is Grant's first rails project!
